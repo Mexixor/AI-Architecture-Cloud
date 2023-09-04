@@ -1,19 +1,21 @@
 # Breast Cancer Prediction Notebook
 
 - **In our exemple we will use a SageMaker Exemple : Breast Cancer Prediction**
-- **Go to SageMaker Exemples**
+- **Download this [notebook](https://github.com/kplr-training/AI-Architecture-Cloud/blob/main/AWS/Breast%20Cancer-Pediction.ipynb) :**
+ 
+  
+- **Click on upload , and upload the notebook**
 ---
-![a](https://user-images.githubusercontent.com/78825764/205044158-5a8b4df0-285f-4fbf-84c7-16bc47dd09e8.PNG)
+![image](https://github.com/kplr-training/AI-Architecture-Cloud/assets/123749462/d8d1adeb-0957-4b95-8ce9-5e738640e078)
 
-- **Click on Use :**
----
-![a](https://user-images.githubusercontent.com/78825764/205044639-6827d2f4-2ab2-4f48-b682-133315c9688f.PNG)
 
-- **Click on create a copy :**
+- **Click on téleverser:**
 ---
-![a](https://user-images.githubusercontent.com/78825764/205045054-078d88fc-86ec-4581-9fe6-082703594d6e.PNG)
+![image](https://github.com/kplr-training/AI-Architecture-Cloud/assets/123749462/5e2df623-d024-4e39-9f9d-850b7ee1c706)
+
+
 
 - **Execute all cells of our Notebook , but we should stop in the last cell since it will clean up our endpoints that we still need on our workshop  :**
 ---
 
-![a](https://user-images.githubusercontent.com/78825764/205046326-a86e2a97-b35d-44b8-a4c9-b801b71f1c74.PNG)
+![image](https://github.com/kplr-training/AI-Architecture-Cloud/assets/123749462/aa2ce851-6e72-4010-843e-426fe7223f28)
